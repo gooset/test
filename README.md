@@ -15,8 +15,7 @@ L'objectif du projet est d'étudier la dynamique de la propagation de la maladie
     Matplotlib (Data visualization library)
 
 # To Do
-    Introduce a vaccination mechanism in the simulation to model the administration of vaccines to individuals.
-
-    Assess efficacy of prevention strategies.
-    Fine-tune simulation parameters.
-    Validate model against real-world data.
+    Introduire un mécanisme de vaccination dans la simulation pour modéliser l'administration des vaccins.
+    Évaluer l'efficacité des stratégies de prévention.
+    Ajuster finement les paramètres de la simulation.
+    Valider le modèle avec des données du monde réel.
